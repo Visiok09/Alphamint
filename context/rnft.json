@@ -1,0 +1,20 @@
+{
+  "324": {
+    "market": {
+      "address": "0x58Be272a034a2F8C9DeD65c2bDB294ec4083A329",
+      "rpc": ""
+    }
+  },
+  "167008": {
+    "market": {
+      "address": "0x51eC1956F4620759f06f95d3441f27b522Dd806C",
+      "rpc": "0xc8264C92Db0147CbF5e62B4e2FEf790DB8Cc9dA3"
+    }
+  },
+  "421614": {
+    "market": {
+      "address": "0x628E038A07cbA5F6cccE1FEf6cd2A374bE4684F9",
+      "rpc": ""
+    }
+  }
+}

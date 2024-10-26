@@ -1,0 +1,24 @@
+.networkStyle {
+  position: absolute;
+  top: 4rem;
+  right: 1rem;
+  border-radius: 1rem;
+  padding: 0.4rem 0.6rem;
+  transition: all 0.3s ease-in;
+  z-index: 222;
+  cursor: pointer;
+  background-color: #c81cc5;
+}
+
+.linkBox {
+  display: flex;
+  justify-content: space-between;
+  gap: 10px;
+  width: 100%;
+  border-radius: 0.6rem;
+  padding: 0.5rem;
+  overflow: hidden;
+}
+.linkBox:hover {
+  background-color: rgb(185, 152, 237);
+}
