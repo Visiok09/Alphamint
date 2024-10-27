@@ -1,6 +1,6 @@
-# Multichain NFT Marketplace
+# Multichain NFT Marketplace Alphamint
 
-[![Multichain NFT Marketplace](https://alphamint.online/)](https://alphamint.online/)
+[![Alphamint](https://alphamint.online/)](https://alphamint.online/)
 
 Welcome to the **Multichain NFT Marketplace**! This platform, accessible at [alphamint.online](https://alphamint.online/), enables users to mint, buy, sell, and trade NFTs across multiple blockchain networks.
 
@@ -37,23 +37,23 @@ The marketplace supports various blockchain networks, including:
 
 ## Usage
 
-### Minting an NFT
+### Create an NFT
 
 1. Connect your Web3 wallet.
-2. Click on the **Mint NFT** button.
+2. Click on the **Create** button.
 3. Upload the digital asset and fill in the required metadata (name, description, etc.).
 4. Choose the network where the NFT will be minted.
 5. Confirm the minting transaction in your Web3 wallet.
 
 ### Buying an NFT
 
-1. Browse available NFTs on the marketplace.
-2. Select the desired NFT and click **Buy Now**.
+1. Browse available NFTs on the marketplace click on **Explore NFTs**.
+2. Select the desired NFT and click **Buy**.
 3. Confirm the purchase transaction in your Web3 wallet.
 
 ### Selling an NFT
 
-1. Navigate to your profile and view your owned NFTs.
+1. Navigate to your profile and view your owned NFTs click on **My NFTs**.
 2. Choose an NFT to list for sale.
 3. Set the price and confirm the listing transaction.
 
