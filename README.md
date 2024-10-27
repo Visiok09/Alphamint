@@ -2,7 +2,7 @@
 
 [![Alphamint](https://alphamint.online/)](https://alphamint.online/)
 
-Welcome to the **Multichain NFT Marketplace**! This platform, accessible at [alphamint.online](https://alphamint.online/), enables users to mint, buy, sell, and trade NFTs across multiple blockchain networks.
+Welcome to the **Multichain NFT Marketplace Alphamint**! This platform, accessible at [alphamint.online](https://alphamint.online/), enables users to mint, buy, sell, and trade NFTs across multiple blockchain networks.
 
 ## Features
 
