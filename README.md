@@ -24,7 +24,7 @@ To interact with the marketplace, you need:
 
 ### Access the Marketplace
 
-Visit [https://alphamint.online/](https://alphamint.online/) to start minting, buying, and selling NFTs.
+Visit [Alphamint](https://alphamint.space/) to start minting, buying, and selling NFTs.
 
 ### Supported Networks
 
