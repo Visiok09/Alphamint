@@ -1,6 +1,6 @@
 # Multichain NFT Marketplace Alphamint
 
-[![Alphamint](https://alphamint.space/)](https://alphamint.space/)
+[[Alphamint](https://alphamint.space/)](https://alphamint.space/)
 
 Welcome to the **Multichain NFT Marketplace Alphamint**! This platform, accessible at [link](https://alphamint.space/), enables users to mint, buy, sell, and trade NFTs across multiple blockchain networks.
 
